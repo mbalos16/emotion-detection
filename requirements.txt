@@ -2,3 +2,5 @@ kaggle==1.6.17
 matplotlib==3.9.2
 pillow==11.0.0
 tensorflow==2.18.0
+pydot==3.0.2
+gprof2dot==2024.6.6

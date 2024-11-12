@@ -2,3 +2,4 @@
 .python-version
 data/*
 .ipynb_checkpoints
+results/*
